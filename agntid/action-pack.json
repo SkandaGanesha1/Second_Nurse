@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "second-nurse-ward",
+  "profile": "Medium / READ_WRITE",
+  "reviewed": true,
+  "tools": {
+    "read": ["list_patients", "get_patient", "get_unit", "get_chart_note"],
+    "write": ["draft_transfusion", "draft_heparin"],
+    "execute": ["sign_order", "message_family"],
+    "delete": ["discard_unit"]
+  },
+  "policies": [
+    {"tool": "draft_heparin", "input": "units", "min": 800, "max": 1200},
+    {"tool": "draft_heparin", "input": "route_code", "min": 1, "max": 1},
+    {"tool": "draft_transfusion", "input": "volume_ml", "min": 200, "max": 350}
+  ],
+  "notice": "Synthetic demonstration only; numeric equality ABO check is not transfusion medicine."
+}

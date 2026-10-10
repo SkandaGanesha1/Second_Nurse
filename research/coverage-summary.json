@@ -1,0 +1,13 @@
+{
+  "total_unique_urls": 1574,
+  "attempted": 1574,
+  "counts": {
+    "retrieved": 1274,
+    "http_error": 238,
+    "failed": 62
+  },
+  "byte_cap_per_url": 120000,
+  "elapsed_seconds": 323,
+  "method": "Bounded public landing-page HTTP retrieval, up to five redirects, no recursive crawling.",
+  "limitations": "Retrieved does not imply full article reading. Some pages require scripts, login, or reject automated access. Snapshots may be truncated. Deep-research verification is separately recorded."
+}

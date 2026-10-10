@@ -1,0 +1,2 @@
+# Reproducible dependency set, including official pinned SDK source.
+-r requirements.lock

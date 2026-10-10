@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "Ward overview" },
+    { "path": "/#workspace", "title": "Agent workspace" },
+    { "path": "/#policies", "title": "Action pack" },
+    { "path": "/#audit", "title": "Audit ledger" },
+    { "path": "/#research", "title": "Research library" },
+    { "path": "/#runtime", "title": "Runtime connection" }
+  ]
+}

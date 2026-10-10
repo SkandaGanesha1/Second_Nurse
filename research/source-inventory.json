@@ -1,0 +1,9462 @@
+[
+  {
+    "url": "https://github.com/NirDiamant/RAG_Techniques",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/NirDiamant/GenAI_Agents",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/shubhamsaboo/awesome-llm-apps",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/Hannibal046/Awesome-LLM",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.promptingguide.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/papers",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/engineering",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://applied-llms.org/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/tensorchord/Awesome-LLMOps",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/jxzhangjhu/Awesome-LLM-RAG",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/Danielskry/Awesome-RAG",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/dave-nachman/awesome-ai-engineering",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/currentslab/awesome-vector-search",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/weitianxin/Awesome-Agentic-Reasoning",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/YunjiaXi/Awesome-Search-Agent-Papers",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/NirDiamant/Controllable-RAG-Agent",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/blog",
+    "files": [
+      "all_links(1).txt",
+      "ai-companies-technical-blogs.md",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://paperswithcode.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.semanticscholar.org/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://aclanthology.org/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/list/cs.CL/recent",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/1706.03762",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2005.11401",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2312.10997",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2201.11903",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2203.11171",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.10601",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2210.03629",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://react-lm.github.io/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2302.04761",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2303.11366",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2205.10625",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2212.10496",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2310.11511",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2401.15884",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2401.18059",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2404.16130",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2501.09136",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2004.12832",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/1603.09320",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2106.09685",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.14314",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2101.00190",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2203.02155",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2212.08073",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2305.18290",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2501.12948",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2205.14135",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2309.06180",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2211.17192",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2310.08560",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2304.03442",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://arxiv.org/abs/2503.12434",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/building-effective-agents",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/built-multi-agent-research-system",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/research",
+    "files": [
+      "all_links(1).txt",
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://github.com/openai/openai-cookbook",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://platform.openai.com/docs/guides/function-calling",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://platform.openai.com/docs/guides/structured-outputs",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://openai.github.io/openai-agents-python/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/function-calling",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/google-gemini/cookbook",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://deepmind.google/discover/blog/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://ai.meta.com/blog/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://github.com/facebookresearch/faiss",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/microsoft/graphrag",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://microsoft.github.io/graphrag/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/research/blog/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://modelcontextprotocol.io/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huyenchip.com/2025/01/07/agents.html",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huyenchip.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://eugeneyan.com/writing/llm-patterns/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://eugeneyan.com/writing/eval-process/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://hamel.dev/blog/posts/evals/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://hamel.dev/blog/posts/field-guide/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://simonwillison.net/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://sebastianraschka.com/blog/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://blog.langchain.com/context-engineering-for-agents/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/langchain-ai/langgraph",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.llamaindex.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.haystack.deepset.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://dspy.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/docs/peft",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/docs/trl",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://python.useinstructor.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/dottxt-ai/outlines",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.vllm.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/sgl-project/sglang",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.ragas.io/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/confident-ai/deepeval",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.pinecone.io/learn/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://qdrant.tech/articles/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://weaviate.io/blog",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/stanford-futuredata/ColBERT",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/naver/splade",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.sbert.net/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/spaces/mteb/leaderboard",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/NVIDIA/TensorRT-LLM",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/unslothai/unsloth",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.litellm.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.smith.langchain.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://langfuse.com/docs",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.arize.com/phoenix",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.promptfoo.dev/docs/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/Giskard-AI/giskard",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.letta.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://microsoft.github.io/autogen/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.crewai.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/docs/smolagents",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://ai.pydantic.dev/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://lmarena.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.swebench.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://crfm.stanford.edu/helm/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.latent.space/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.interconnects.ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://magazine.sebastianraschka.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://importai.substack.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://karpathy.github.io/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/karpathy/nanoGPT",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/LLMDevs/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/Rag/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/LocalLLaMA/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/MachineLearning/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/LangChain/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/karpathy",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/simonw",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/swyx",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/jxnlco",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/HamelHusain",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/chipro",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/rasbt",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/natolambert",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/lilianweng",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://x.com/_akhaliq",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://platform.claude.com/cookbook/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/learn/deep-rl-course",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/learn/agents-course",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://cohere.com/llmu",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.cohere.com/docs/llmu-2",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/semantic-kernel/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://aws.amazon.com/architecture/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-well-architected-generative-ai-lens/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://milvus.io/bootcamp",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://github.com/milvus-io/bootcamp",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://milvus.io/blog",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://academy.weaviate.io/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://academy.weaviate.io/paths",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://news.ycombinator.com/",
+    "files": [
+      "all_links(1).txt",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://towardsdatascience.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.kdnuggets.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://airflow.apache.org/docs/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://airflow.apache.org/docs/apache-airflow/stable/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://docs.temporal.io/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://blog.logrocket.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://blog.logrocket.com/tag/ai/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.oreilly.com/radar/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://www.datacamp.com/",
+    "files": [
+      "all_links(1).txt"
+    ]
+  },
+  {
+    "url": "https://bluedot.global/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://bluedot.global/blogs/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cohere.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cohere.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.servicenow.com/fr/company/media/press-room/servicenow-to-acquire-element-ai.html",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/research/project/maluuba/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://waabi.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://waabi.ai/insights",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://aifoundation.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.anduril.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.anduril.com/news/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://anysphere.inc/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cursor.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.anthropic.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.broadcom.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.broadcom.com/company/resources",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.caper.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cerebras.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cerebras.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cerence.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cerence.com/newsroom/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://character.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.character.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cognition.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cognition.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.colloqui.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://contextual.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://contextual.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.conversable.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.coreweave.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.coreweave.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.counselai.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://covariant.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.databricks.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.databricks.com/blog/category/engineering",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://decagon.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://decagon.ai/resources/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.eleuther.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://elevenlabs.io/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://elevenlabs.io/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://farmwise.io/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.figure.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.figure.ai/news",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://fireworks.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://fireworks.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://forethought.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.forethought.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.glean.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.glean.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://ai.google/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://groq.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://groq.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.hebbia.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.hebbia.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.heygen.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.heygen.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://huggingface.co/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://inflection.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://inflection.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://invisibletech.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://invisibletech.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://khealth.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://khealth.com/tag/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://labscompanies.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.liquid.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.liquid.ai/company/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.langchain.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.langchain.dev/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.mercor.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.mercor.com/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.meta.com/superintelligence/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.microsoft.com/en/ai",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://microsoft.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.midjourney.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://updates.midjourney.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.nuro.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.nuro.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.nvidia.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blogs.nvidia.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://openai.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://openai.com/research/index/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.openevidence.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.openevidence.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://openrouter.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://openrouter.ai/blog/all/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blogs.oracle.com/ai-and-datascience/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://otter.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://otter.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.perplexity.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.perplexity.ai/en-GB/hub/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.pi.website/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.pi.website/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.poolside.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.poolside.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.preamble.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.preamble.com/blogs/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://raiclabs.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://raiclabs.com/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://reflection.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://reflection.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://runway.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://runway.com/news",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://ssi.inc/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://ssi.inc/updates",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://sambanova.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://sambanova.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://scale.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://scale.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://shield.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://shield.ai/newsroom/?category=blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.snowflake.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.snowflake.com/en/blog/engineering/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.soundhound.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.soundhound.com/resources/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://sourcegraph.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://spectreai.io/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://spectreai.io/journal.html",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://thinkingmachines.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://thinkingmachines.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://undetectable.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://undetectable.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://waymo.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://waymo.com/research/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://writer.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://writesonic.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://writesonic.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://x.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://x.ai/news",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://zoox.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://zoox.com/journal",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.1x.tech/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.1x.tech/discover",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.01.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.01.ai/newsroom.html",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://en.4paradigm.com/index.html",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.baichuan-ai.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.baichuan-ai.com/blog/baichuan-M2",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.deepseek.com/en/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.deepseek.fyi/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.horizon.auto/en",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.horizon.auto/en/news/horizon-news",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.minimax.io/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.minimax.io/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.modelbest.cn/en/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.moonshot.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.kimi.com/en/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.sensetime.com/en/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.sensetime.com/en/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.stepfun.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://chat.stepfun.com/research",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.xiaoi.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cn.xiaoi.com/en/aboutPage/newsInfo",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://z.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.zhipuai.cn/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://zhipuai.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://artisse.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://artisse.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.haptik.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.haptik.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://visualdub.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.sarvam.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.sarvam.ai/blogs",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.ai21.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.ai21.com/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.aidoc.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.aidoc.com/learn/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://decart.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://decart.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://hailo.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://hailo.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://sakana.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://sakana.ai/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://humain.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.humainlabs.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.upstage.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.g42.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://aicloud.core42.ai/blog/g42-intelligence-grid-sovereign-ai-infrastructure",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.dataiku.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.dataiku.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://hcompany.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://hcompany.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://lighton.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://lighton.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://linagora.com/en/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://linagora.com/en/linagora-newsroom",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://mistral.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://mistral.ai/news",
+    "files": [
+      "ai-companies-technical-blogs.md",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.owkin.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.owkin.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://aleph-alpha.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://aleph-alpha.com/en/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.deepl.com/en/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://home.deepl.com/en/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://helsing.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.helsing.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://translated.com/welcome",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://translated.com/resources/future-of-ai-translation",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://neurotechnology.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://axelera.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://axelera.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cradle-ai.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cradl.ai/posts",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://unbabel.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://unbabel.com/category/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.furhatrobotics.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.furhatrobotics.com/newsroom",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://lovable.dev/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://lovable.dev/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://art-recognition.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://paintingrecognition.com/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.respeecher.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.respeecher.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.arm.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://newsroom.arm.com/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://deepmind.google/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://deepmind.google/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://elevenlabs.io/blog/category/research",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://gradient-labs.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://gradient-labs.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.isomorphiclabs.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.isomorphiclabs.com/articles",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.mindfoundry.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.mindfoundry.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://peak.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://peak.ai/hub/blogs/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.quantexa.com/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.quantexa.com/blog/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.recraft.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.recraft.ai/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://stability.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://stability.ai/research",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.synthesia.io/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.synthesia.io/blog",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://wayve.ai/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://wayve.ai/thinking/",
+    "files": [
+      "ai-companies-technical-blogs.md"
+    ]
+  },
+  {
+    "url": "https://0g.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://0g.ai/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.0g.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://0x.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://0x.org/post",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://1inch.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.1inch.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://3boxlabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ceramic.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://a16zcrypto.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://a16zcrypto.com/posts",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aave.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aave.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://abundancelabs.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://acala.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/acalanetwork",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://across.to",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://across.to/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aerodrome.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aerodrome.finance/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ajuna.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.alchemy.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.alchemy.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.alchemy.com/account-abstraction",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://alchemypay.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://alchemypay.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.alchemy.com/subgraphs",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://algofi.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.algorand.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.algorand.foundation/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://algorand.co/developers/workshops",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.alterya.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ambire.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ambire.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://amboss.space",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://amboss.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.anchorage.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.anchorage.com/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.animocabrands.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.animocabrands.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://research.animocabrands.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ankr.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ankr.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.anza.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.anza.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://apecoin.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://apecoin.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://apeworx.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://apeworx.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://api3.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/api3",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.apollofirst.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aptoslabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aptosfoundation.org/currents",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aptoslabs.medium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aragon.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://aragon.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.arbital.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://arbitrum.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.arbitrum.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.arc.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.circle.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.argent.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.argent.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://Argo.LA",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://argument.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://argument.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.arkhamintelligence.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.arkhamintelligence.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://info.arkm.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://arkiv.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://arkiv.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.arqfinance.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.arqfinance.com/en-MX/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://astar.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://astar.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://astar.subsquare.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://atomicwallet.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://atomicwallet.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://atomicwallet.io/band-staking",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.avalabs.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.avalabs.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/avalabs",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.avax.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.avax.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.axelar.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.axelar.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://skymavis.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://skymavis.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://axiom.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.AYCFund.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://balancer.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/balancer-protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bandprotocol.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bandprotocol.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developer.bandprotocol.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.base.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.base.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ben.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.berachain.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.berachain.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.hyperledger.org/projects/besu",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lfdecentralizedtrust.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lfdecentralizedtrust.org/staff",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.biconomy.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.biconomy.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.hapi.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bifrost.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/bifrost-finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.binance.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.binance.com/en/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.binance.com/en/blog/tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitaccess.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitcoin.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitcoin.org/en/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitcoinops.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitcoindepot.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitcoindepot.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitfinex.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.bitfinex.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitfury.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitfury.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitgo.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitgo.com/resources/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bithumb.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitmex.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.bitmex.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitpanda.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.bitpanda.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitpanda.com/en/web3/vision-protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitpay.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitpay.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitso.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.bitso.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitstack-app.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bitstamp.net",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.bitstamp.net",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitwiseinvestments.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bitwiseinvestments.com/crypto-market-insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blaize.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blaize.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blaize.security",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blast.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blast.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blaze.money",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blaze.money/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blindpay.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blindpay.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://block.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://block.xyz/inside/articles",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developer.squareup.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blockdaemon.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blockdaemon.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blockfi.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blockfi.com/category/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blockscope.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blockscope.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blockscout.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blockscout.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blockstream.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.blockstream.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blur.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blur.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bnbchain.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bnbchain.org/en/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bootnode.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bootnode.dev/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.botin.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://brave.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://brave.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://brave.com/privacy-updates",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bridge.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bridge.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bridge.xyz/product/wallets",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://btcpayserver.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.btcpayserver.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://buidlguidl.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://buidlguidl.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://buidlguidl.com/blog/ai-native-ethereum-stack",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://bunkyr.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.bybit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://announcements.bybit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://camelot.exchange",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://camelot.exchange/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nouns.camp",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://candide.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.candide.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://candy.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.candy.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://canopi.cash",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cardano.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cardano.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://iohk.io/en/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://casa.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.casa.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://casa.io/inheritance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cash.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cash.app/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cash.app/bitcoin",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cash.app/$Engineering",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cashmere.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cashmere.finance/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://celestia.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.celestia.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://celo.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.celo.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://center.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://centrifuge.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://centrifuge.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ceramic.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.certik.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.certik.com/resources/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.chainalysis.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.chainalysis.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.chainalysis.com/product/rapid",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.chainalysis.com/reports",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chain.link",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.chain.link",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chainsafe.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.chainsafe.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chainstack.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chainstack.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chainsulting.de",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chainsulting.de/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://charm.cash",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://chroniclelabs.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.chroniclelabs.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.circle.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cleanspark.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cleanspark.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.getcleva.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.getcleva.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cocowallet.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://codexa.com.br",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://codexa.com.br/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coinbase.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coinbase.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coinbase.com/blog/engineering",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coindcx.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coindcx.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coinflip.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coinflip.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coinflip.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coingecko.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coingecko.com/learn",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coingecko.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.coinhako.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.coinhako.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coinlist.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.coinlist.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coinmarketcap.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coinmarketcap.com/academy/articles",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coinrule.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coins.ph",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.coins.ph",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cointracker.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cointracker.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://coldcard.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.coinkite.com/understanding-mk4-security-model",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://colony.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.colony.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.composable.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://composable.finance/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://compound.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://compound.finance/governance/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/compound-finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.family.co/connectkit",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io/diligence",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io/diligence/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io/quorum",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.convexfinance.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://convictiontrade.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://copper.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://copper.co/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://corda.net",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://r3.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.r3.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cosmos.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.cosmos.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.covalenthq.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.covalenthq.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cow.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.cow.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://swap.cow.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://crust.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/crustnetwork",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cryptofinance.ch",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.crypto-finance.com/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://crypto.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://crypto.com/en/product-news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://crypto.com/university",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://curve.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://news.curve.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.curve.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cyfrin.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.cyfrin.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cypherhq.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://cypherhq.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://darwinia.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/darwinianetwork",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.decent.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://defillama.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dlnews.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.definitive.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.definitive.fi/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://flash.definitive.fi/docs",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://democracy.earth",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://democracy.earth/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://devcon.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dexwin.bet",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dfinity.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/dfinity",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.dfns.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.dfns.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dfns.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dharma.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dharma.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dialect.to",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dourolabs.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pyth.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.drift.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.drift.trade/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.drift.trade/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dune.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dune.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dydx.exchange",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.dydx.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.dynamic.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.dynamic.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethresear.ch",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.eigenlayer.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.blog.eigenlayer.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.eigencloud.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.elliptic.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.elliptic.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://eluv.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://eluv.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.energyweb.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.energyweb.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://energyweb.org/protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ens.domains",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ens.domains",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://envio.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.envio.dev/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://equilibrium.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.erc4337.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://erigon.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://erigon.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethena.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ethena.fi/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ether.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ether.fi/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethereum.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ethereum.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ethereum.org/category/protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethereum.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ethereum.org/category/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethereum-magicians.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethers.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ricmoo.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://etherscan.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://info.etherscan.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethglobal.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ethglobal.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.circle.com/developer",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ethosx.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.etoro.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.etoro.com/news-and-analysis",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.exodus.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.exodus.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://family.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://family.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://family.co/docs",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.soniclabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.soniclabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.farcaster.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.farcaster.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.figment.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://figment.io/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.figure.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.figure.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://filecoin.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://filecoin.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.getfilta.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.fireblocks.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.fireblocks.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.flashbots.net",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://writings.flashbots.net",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://flow.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://flow.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://flow.com/engineering-blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://iflux.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://iflux.app/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://fordefi.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://fordefi.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://fordefi.com/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://foundation.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://foundation.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://foundation.xyz/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://getfoundry.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.paradigm.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://fountain.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://fountain.fi/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://frame.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.frame.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.freeportmarkets.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.frequency.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gate.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gate.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gemini.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gemini.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://paxos.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://geth.ethereum.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gitcoin.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gitcoin.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://buildwithglide.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://globe.exchange",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://globe.exchange/markets/overview",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://globe.exchange/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://gmx.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://gmxio.substack.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gnosis.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gnosis.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://goldsky.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://goldsky.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://grandine.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://gridplus.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.gridplus.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gsr.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.gsr.io/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.halborn.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.halborn.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.halborn.com/solutions/technical-due-diligence",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hapi.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hapi.trade/es/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hardhat.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hardhat.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hedera.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hedera.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hedgehog.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://helicarrier.studio",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.helium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.helium.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.helius.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.helius.dev/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.onhexel.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hike.in",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.hiro.so",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.hiro.so/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hop.exchange",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/hop-protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.htx.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.htx.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hydration.net",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hydration.net/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.hype.meme",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lfdecentralizedtrust.org/projects/fabric",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hyperliquid.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://hyperliquid.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://gethypertrader.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.hyphenconnect.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ibm.com/blockchain",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ibm.com/blogs/blockchain",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developer.ibm.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.immutable.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.immutable.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.impossiblecloud.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.impossiblecloud.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.improbable.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.improbable.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.infiniaweb.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.infinia.xyz:443/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.infiniaweb.com/reference",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.infura.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.infura.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://injective.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.injective.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://injective.com/dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://iohk.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://iohk.io/en/blog/columns/technical",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://instinct.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.interlay.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/interlay",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://internetcomputer.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://invarch.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://invarch.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.iovlabs.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.iovlabs.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rootstock.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ipfs.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ipfs.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.jito.wtf",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.jito.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://jup.ag",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.jupresear.ch",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kamino.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.kamino.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://gokarsa.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kaspa.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kaspa.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://research.kas.pa",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kernel.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.kernel.sh/blog/claude-managed-agents",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.keyfactor.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.keyfactor.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.keyfactor.com/keyfactor-for-developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://keyrock.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://keyrock.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://keyrock.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.kilt.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.kilt.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kleros.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.kleros.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://koywe.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.kraken.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.kraken.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kronosresearch.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.kucoin.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://kyberswap.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.kyber.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://launchcaster.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://layerzero.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://layerzero.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ledger.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.ledger.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ledger.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lens.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mirror.xyz/lensprotocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://li.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://li.fi/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.li.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lido.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.lido.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lighthouse.sigmaprime.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lighthouse.sigmaprime.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lighthouse-blog.sigmaprime.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lightning.engineering",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lightning.engineering/posts",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lightspark.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lightspark.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.limitbreak.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://linea.build",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://linea.mirror.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://linea.build/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lfdecentralizedtrust.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://listia.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.listia.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.litprotocol.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://spark.litprotocol.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.litentry.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.littio.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lodestar.chainsafe.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lodestar.chainsafe.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lofty.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lofty.ai/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.lootrush.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.luno.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.luno.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://paywithlyra.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://magiceden.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://news.magiceden.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://magna.so",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sky.money",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.sky.money",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://forum.makerdao.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mantle.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mantle.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://marinade.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/marinade-finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.marinade.finance/marinade-protocol/security/audits",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://marketized.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://masterpiecelabs.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.matcha.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.matcha.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://matter-labs.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://jobs.matter-labs.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mazegeek.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mempool.space",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mempool.space/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mercadobitcoin.com.br",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mercadobitcoin.com.br/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mercadobitcoin.com.br/criptomoedas/near-protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://meson.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://messari.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://messari.io/report",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://engineering.messari.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://metamask.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://metamask.io/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://metamask.io/news/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://meteora.ag",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mexc.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.mexc.com/learn",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://midao.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.midao.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.monad.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.monad.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://moonbeam.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://moonbeam.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.moonpay.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.moonpay.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://moralis.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://moralis.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://morpho.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://morpho.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mudrex.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mudrex.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://multis.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://multiversx.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://multiversx.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mystenlabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mystenlabs.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mythicalgames.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mythicalgames.com/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://mythos.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nansen.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://research.nansen.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://near.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://near.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nethermind.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nethermind.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nethermind.io/blockchain-core-engineering",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.newton.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.newton.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nftport.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nftscoring.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nftscoring.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nimbus.team",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nimbus.team/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nodle.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.nodle.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nomic.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nomic.foundation/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://notabene.id",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://notabene.id/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.notebooklabs.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://novawallet.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://novawallet.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nunchuk.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nunchuk.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nunchuk.io/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nuri.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nuri.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://nuri.com/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://odos.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://odos.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.offchainlabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.offchainlabs.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.okx.com/okcoin",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.okx.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.okx.com/learn",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ondo.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ondo.finance/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.onramper.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.onramper.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.opennode.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.opennode.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developers.opennode.com/docs",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://opensea.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://opensea.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.openzeppelin.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.openzeppelin.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.openzeppelin.com/defender",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.openzeppelin.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.openzeppelin.com/security-audits",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.optimism.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://optimism.mirror.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.optimism.io/governance/protocol-upgrades",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.orca.so",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://orca-so.medium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.orca.so/developers/overview",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.oroagents.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://oroagents.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.owny.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developers.owny.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pancakeswap.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.pancakeswap.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.paradigm.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.paraswap.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.paraswap.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.parity.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.parity.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://particle.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.particle.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developers.particle.network/intro/introduction",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.partyhat.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://path.me",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://paxos.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.payfura.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.paypal.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://newsroom.paypal-corp.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/paypal-tech",
+    "files": [
+      "web3-companies-links.md",
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.peaq.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.peaq.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://peckshield.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://peckshield.medium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.peg.money",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.peg.money/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pendle.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pendle.finance/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pendulumchain.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pendulumchain.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pendulumchain.org/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://withpersona.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://withpersona.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://phala.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://phala.network/posts",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://phala.com/success-stories/healthcare-research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://phantom.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://phantom.com/learn",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://phygtl.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pimlico.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pimlico.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.letsping.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pintu.co.id",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.pintu.co.id",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pluto.markets",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pluto.markets/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pod.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pod.network/blog/building-fast-and-fair-markets",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pokerclubhub.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pokoapp.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pokoapp.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.polarfi.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polarfi.com/en/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.polimec.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polkadex.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.polkadex.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polkadot.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polkadot.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://forum.polkadot.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wiki.polkadot.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wiki.polkadot.com/learn/learn-polkadot-technical-fellowship",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polkadot.js.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polygon.technology",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polygon.technology/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polymarket.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://news.polymarket.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://polymarket.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ponder.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ponder.sh/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.prestolabs.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.prestolabs.io/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.primevault.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.primevault.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.privy.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.privy.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://protocol.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://protocol.ai/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://protofire.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.protofire.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://prysmaticlabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.prysmaticlabs.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.prysmaticlabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://public.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://public.com/learn",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://public.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pudgypenguins.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://pudgypenguins.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pyth.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.pyth.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://qbein.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://quantstamp.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://quantstamp.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.quicknode.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.quicknode.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://r3.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rabby.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/@rabby_io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://raidguild.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rainbow.me",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rainbow.me/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.rainbowkit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ramp.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ramp.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rarible.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rarible.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://raydium.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://raydium.medium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://recurforever.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://redstone.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.redstone.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://reown.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://reown.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://request.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://request.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://reservoir.tools",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.reservoir.tools",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://paradigm.xyz/2022/12/reth",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rhinestone.wtf",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.rhinestone.wtf",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.rio.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.rio.trade/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ripple.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ripple.com/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://river.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://river.com/learn",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://river.com/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://robinhood.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.robinhood.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://newsroom.aboutrobinhood.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://roninchain.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://roninchain.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://rootstock.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ruvo.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://safe.global",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://safe.global/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sanctum.so",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sanctum.so/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://files.sanctum.so/2026q2.pdf",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.satsuma.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://scaffoldeth.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.scorechain.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.scorechain.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.scorechain.com/customers/defi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://scroll.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://scroll.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://seedify.fund",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://seedify.fund/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sei.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.sei.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sericapay.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://serotonin.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://serotonin.co/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://serotonin.co/research",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sfox.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sfox.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://shakepay.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://shakepay.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sigmaprime.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.sigmaprime.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.simplehash.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.simplehash.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.slashauth.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.slowmist.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://slowmist.medium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.slowmist.com/service-security-consulting.html",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://smartstate.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://smartstate.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://snapshot.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://snapshot.box/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.socket.tech",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.socket.tech/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://solana.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://solana.com/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sonar.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://Soon.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.soon.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://soonami.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://soonami.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.spaceandtime.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.spaceandtime.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sparrowwallet.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://spearbit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.spearbit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://speedrunethereum.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://spiral.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://spiral.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.spruceid.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.spruceid.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://stackblitz.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.stackblitz.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.stacks.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.stacks.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.stackup.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.stackup.sh/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.starknet.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.starknet.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://starkware.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://starkware.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://status.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://status.app/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://stellar.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://stellar.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://striga.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.striga.com/blog/lightspark-acquires-striga",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://strike.me",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://strike.me/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://stripe.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://stripe.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://stripe.com/blog/engineering",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://subquery.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://subquery.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sqd.ai",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.sqd.dev",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sui.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.sui.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sumsub.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://sumsub.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.surematics.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.surematics.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sushi.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sushi.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.swanbitcoin.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.swanbitcoin.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.swanbitcoin.com/articles",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://swissborg.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://swissborg.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sygnum.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sygnum.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://synthetix.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.synthetix.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.t3rn.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.t3rn.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.t3rn.io/blog/t3rn-roadmap_2026",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tableland.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tableland.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.tableland.xyz/fundamentals/architecture/protocol-design",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.talisman.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.talisman.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tally.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tally.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tally.xyz/gov/unlock-protocol",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://taofi.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io/teku",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://consensys.io/research-and-development",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tenderly.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tenderly.co/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.tenderly.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tensor.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tensor.trade/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tensor.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dev.tensor.trade",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tether.to",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tether.io/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tezos.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tezos.com/news",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tezos.com/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.theblock.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://thegraph.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://thegraph.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://edgeandnode.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.getthera.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.getthera.com/blog/thera-rewards",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.theya.us",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.theya.us",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.thirdbridge.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.thirdbridge.com/en-us/data-solutions/mcp",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://thirdweb.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.thirdweb.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://thirdwork.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tiendacrypto.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tinkercorp.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tokenmetrics.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.tokenmetrics.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://ton.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.ton.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://lfj.gg",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://traderjoexyz.medium.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.trailofbits.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.trailofbits.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://transak.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://transak.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://trezor.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.trezor.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://triton.one",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://triton.one/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.trmlabs.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.trmlabs.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tron.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tron.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developers.tron.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://trustwallet.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://trustwallet.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developer.trustwallet.com/developer",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.turnkey.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.turnkey.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tx.company",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://tx.company/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://uma.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://uma.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.uma.xyz/developers/optimistic-oracle",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://unchained.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://unchained.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.unchained.com/inheritance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.unichain.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.uniswap.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://developers.uniswap.org/docs/unichain/guides/deploy-a-smart-contract",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://unique.network",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://unique.network/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://unique.network/developer",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://uniswap.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.uniswapfoundation.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.uniswapfoundation.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.unlimit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.unlimit.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://integration.unlimit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://UpBanx.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://upbit.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.upbit.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://utila.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://utila.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.valiu.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.valiu.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://velodrome.finance",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://velodrome.finance/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://verdictmachine.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://verdictmachine.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://viem.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://vitalik.eth.limo",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://vitalik.eth.limo/general/2022/12/06/gpt3.html",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://voltage.cloud",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://voltage.cloud/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.voltageapi.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.voodoo.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.voodoo.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wagmi.sh",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://walletconnect.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://walletconnect.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://warpcast.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://farcaster.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://farcaster.xyz/engineering",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wasabiwallet.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.wasabiwallet.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wazirx.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wazirx.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://web3.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://web3.foundation/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://research.web3.foundation",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://web3auth.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.web3auth.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.weltio.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.whatnot.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.whatnot.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://whitechain.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://whitechain.io/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.whitechain.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://dabba.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.dabba.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.windranger.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.wintermute.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.wintermute.com/insights",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://woo.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://woo.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://world.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://world.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://world.org/developers",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wormhole.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://wormhole.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://www.sendwyre.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://xrpl.org",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://xrpl.org/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://yearn.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.yearn.fi",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://yellowhouse.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://yellowhouse.xyz/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://yuga.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://yuga.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zaubar.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zeitgeist.pm",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://blog.zeitgeist.pm",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zengo.com",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zengo.com/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zerodev.app",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://docs.zerodev.app/blog",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zksync.io",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zksync.mirror.xyz",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zora.co",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://zora.energy",
+    "files": [
+      "web3-companies-links.md"
+    ]
+  },
+  {
+    "url": "https://engineering.fb.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://cloud.google.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://research.google/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/architecture/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.amazon.science/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://netflixtechblog.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://eng.uber.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/blog/engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://stripe.dev/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.x.com/engineering/en_us",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://discord.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://dropbox.tech/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.databricks.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://github.blog/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://shopify.engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/airbnb-engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.canva.dev/blog/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://eng.lyft.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/pinterest-engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.zomato.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.atspotify.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.hotstar.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://machinelearning.apple.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://devblogs.microsoft.com/engineering-at-microsoft/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://azure.microsoft.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://openai.com/news",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://slack.engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.cloudflare.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.figma.com/blog/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://careersatdoordash.com/engineering-blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.snowflake.com/en/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.salesforce.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://innovation.ebayinc.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.mongodb.com/blog/channel/engineering-blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://tech.instacart.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.notion.so/blog/topic/engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.etsy.com/codeascraft",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.grab.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.atlassian.com/blog/atlassian-engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.coinbase.com/blog/landing/engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.flipkart.tech/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.razorpay.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/RedditEng",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://eng.snap.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://bytes.swiggy.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/walmartglobaltech",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://booking.ai/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.grammarly.com/blog/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.datadoghq.com/blog/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://vercel.com/blog/category/engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://building.nubank.com/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.klarna.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/mercadolibre-tech",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/intuit-engineering",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineeringblog.yelp.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.twitch.tv/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.docker.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.postman.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://about.gitlab.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.elastic.co/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.cockroachlabs.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.sentry.io/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.block.xyz/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.duolingo.com/hub/engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://d2.naver.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.alibabacloud.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://developers.tiktok.com/blogs",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://engineering.mercari.com/en/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.gojek.io/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/freshworks-engineering-blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://zerodha.tech/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://developer.ibm.com/blogs/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://grafana.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.confluent.io/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.hashicorp.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.twilio.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.developer.adobe.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.bloomberg.com/company/stories/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://technology.riotgames.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://hacks.mozilla.org/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://open.nytimes.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.palantir.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.capitalone.com/tech/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.zillow.com/tech/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://multithreaded.stitchfix.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/expedia-group-tech",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://medium.com/bumble-tech",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.algolia.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.honeycomb.io/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://redis.io/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.pinecone.io/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.adyen.com/knowledge-hub",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://blog.langchain.com/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://robinhood.engineering/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.fastly.com/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://www.digitalocean.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://supabase.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://planetscale.com/blog",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://lmsys.org/blog/",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://x.com/UberEng",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://x.com/ShopifyEng",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  },
+  {
+    "url": "https://x.com/NetflixEng",
+    "files": [
+      "top-100-product-company-engineering-blogs.md"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+# Second Nurse outcomes
+
+- [x] Synthetic ward and raw before path: four fixed patients (1042 Meera O+, 1108 Arun AB+, 2201 Priya A+, 3310 Joseph B+), unit U-17 O+ 280 ml and trap U-88 AB+, active synthetic 800–1200 protocol where specified; note planted on Meera explicitly; shared raw tools allow synthetic overdose, signature, queued message and discard without any external action; ABO mismatch always rejected; independent reset between scenarios; raw transcript honestly labeled deterministic rather than model-produced.
+- [x] Nine-tool official MCP server: list_patients, get_patient, get_unit, get_chart_note, draft_transfusion, draft_heparin, sign_order, discard_unit, message_family; small schemas; no shell, SQL, HTTP, reset or unchecked tool exposed; stdio and streamable HTTP discovery work.
+- [x] Functional projector control console: Ward overview, Agent workspace, Action pack, Audit ledger, Research library, Runtime connection; patient selection, scenario selection, raw before run, clearly marked nonexecuting reference, execution-stage inspection, audit filtering and evidence export work; synthetic-only and runtime provenance stay visible; no attacker image rendered or external family communication performed.
+- [x] Real AgntID integration code: use documented official SDK, exact discovered names and schemas, trusted server identity, accepted task-open before calls, same task correlation throughout, protected wrapper, denial stops that action and no raw fallback, task closes on error. Live path is unavailable until SDK/runtime configured; no claim of runtime sync, scoped credentials, output protection or final-answer validation without observed official evidence.
+- [x] Action pack setup: Medium/READ_WRITE; reviewed read and normal write; execute sign/message and delete discard excluded; units 800–1200, route_code 1–1, volume_ml 200–350; no invented portal widgets; document actual versus unperformed setup and Standard versus LLM intent.
+- [x] Research coverage: inventory and attempt every unique supplied URL with bounded retrieval and explicit failures; separate HTTP retrieval from deep reading; sixteen dedicated subject agents cover all nine requested security vendors and applicable engineering sources; source-backed synthesis maps findings to implementation and removes unsupported clinical/news claims.
+- [x] Evidence and source delivery: local hash-linked audit labeled tamper-evident not immutable or signed; real runtime evidence distinguished from reference and raw before; complete source ZIP, pinned dependency setup, tests, architecture, Cursor next steps, offline demo and submission draft; no Devfolio submission or broad public publication.
+- [x] Validation and checkpoint: automated ward/API/adapter/audit checks, real MCP protocol discovery, one read-only implementation audit, correction of confirmed issues, configured route manifest and metadata, healthy preview on 3000, source pushed to canonical main; a Version-history receipt was not returned.
+
+## External prerequisites not yet completed
+
+- [ ] User connects/bootstraps real AgntID runtime in portal and waits for APPLIED policy sync.
+- [ ] Real Simulator allow and deny evidence plus Reporting screenshots are captured.
+- [ ] LLM-based intent output inspection/final-answer stages are observed; otherwise remain unclaimed.
